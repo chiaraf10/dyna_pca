@@ -5,4 +5,12 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://chiaraf10.github.io',
                 'git_url': 'https://github.com/chiaraf10/dyna_PCA',
                 'lib_path': 'dyna_PCA'},
-  'syms': {'dyna_PCA.core': {'dyna_PCA.core.foo': ('core.html#foo', 'dyna_PCA/core.py')}}}
+  'syms': { 'dyna_PCA.core': {'dyna_PCA.core.foo': ('core.html#foo', 'dyna_PCA/core.py')},
+            'dyna_PCA.core_functions': {},
+            'dyna_PCA.get_matrix': {},
+            'dyna_PCA.get_pca': {},
+            'dyna_PCA.mseloss': {},
+            'dyna_PCA.norm': {},
+            'dyna_PCA.pca': {},
+            'dyna_PCA.time_history': {},
+            'dyna_PCA.train_split': {}}}
