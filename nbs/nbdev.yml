@@ -2,8 +2,8 @@ project:
   output-dir: _docs
 
 website:
-  title: "dyna_pca"
-  site-url: "https://chiaraf10.github.io/dyna_pca"
+  title: "dyna_PCA"
+  site-url: "https://chiaraf10.github.io/dyna_PCA"
   description: "Pricipal Component Analysis for Ls-Dyna simulation output"
   repo-branch: main
-  repo-url: "https://github.com/chiaraf10/dyna_pca"
+  repo-url: "https://github.com/chiaraf10/dyna_PCA"

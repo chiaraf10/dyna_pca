@@ -6,7 +6,7 @@ dyna_PCA - On going Development
 ## Install
 
 ``` sh
-pip install dyna_pca
+pip install dyna_PCA
 ```
 
 ## How to use
